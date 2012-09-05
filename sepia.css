@@ -1,3 +1,7 @@
 body {
 	-webkit-filter: sepia(100%) !important;
+	background: #fff;
+}
+.timelinelayout {
+	background: #ffffdc;
 }

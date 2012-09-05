@@ -5,7 +5,7 @@
 	"description": "Make Facebook look a bit older",
 	"content_scripts": [{
 		"matches": ["http://www.facebook.com/*", "https://www.facebook.com/*"],
-		"css": ["sepia.css"],
+		"css": ["sepia.css"]
 	}],
 	"permissions": [
 		"tabs",
