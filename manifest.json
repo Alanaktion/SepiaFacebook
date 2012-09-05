@@ -3,6 +3,10 @@
 	"version": "1.0",
 	"manifest_version": 2,
 	"description": "Make Facebook look a bit older",
+	"icons": {
+		"128": "icon_128.png",
+		"220": "sepia_icon.png"
+	},
 	"content_scripts": [{
 		"matches": ["http://www.facebook.com/*", "https://www.facebook.com/*"],
 		"css": ["sepia.css"]
