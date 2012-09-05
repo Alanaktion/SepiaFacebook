@@ -4,8 +4,7 @@
 	"manifest_version": 2,
 	"description": "Make Facebook look a bit older",
 	"icons": {
-		"128": "icon_128.png",
-		"220": "sepia_icon.png"
+		"128": "icon_128.png"
 	},
 	"content_scripts": [{
 		"matches": ["http://www.facebook.com/*", "https://www.facebook.com/*"],
