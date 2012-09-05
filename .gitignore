@@ -1,3 +1,7 @@
+# Chrome Private Key
+*.key
+*.pem
+
 #################
 ## Eclipse
 #################
